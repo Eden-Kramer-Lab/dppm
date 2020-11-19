@@ -1,5 +1,15 @@
-# Dynanets
+# Dynanets (simplified)
 The purpose of this code is to track communities in dynamic networks. 
+
+Here, we assume:
+- You have in hand a time-indexed binary network `C[nodes,nodes,time]`.
+- You would like to apply DPPM to this network.
+- You would like to visualize the results.
+
+
+
+
+
 
 ## Dependices
 Download the following software packages, required to track dynamic communities and analyze the networks.
