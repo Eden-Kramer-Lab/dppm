@@ -2,7 +2,7 @@
 The purpose of this code is to track communities in dynamic networks. 
 
 ## Simplified analysis
-... for a simplified example of the method, check out [the README in this branch](https://github.com/Eden-Kramer-Lab/dppm/tree/simplified).
+<span style="color:red"> ... for a simplified example of the method, check out [the README in this branch](https://github.com/Eden-Kramer-Lab/dppm/tree/simplified).</span>
 
 ## Dependices
 Download the following software packages, required to track dynamic communities and analyze the networks.
